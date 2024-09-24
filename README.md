@@ -33,8 +33,8 @@ Thank you for visiting my Github. Feel free to read more about me and explore my
 - **🎤 Director of Event Support @ Pearl Hacks UNC**
 - **💻 Competitive Coding Club @ UNC**
 ##  Current Projects:
-- 📱 **iOS application** [OneTouch](https://www.onetouchmobileapp.com) to help make college students’ lives easier/safer. It’s home to a protected marketplace, tutoring hub, events, etc.
-- 💍 **Full-Stack application** [I-do](https://i-do-extension.web.app/login) focused on improving the lives of couples planning a wedding. Utilizes various machine learning algorithms to help make your dream wedding a reality.
+- 📱 [OneTouch](https://www.onetouchmobileapp.com) **iOS application**  to help make college students’ lives easier/safer. It’s home to a protected marketplace, tutoring hub, events, etc.
+- 💍 [I-do](https://i-do-extension.web.app/login) **Full-Stack application**  focused on improving the lives of couples planning a wedding. Utilizes various machine learning algorithms to help make your dream wedding a reality.
 ## Contact me: 
 - 📧 **Email**: [akhil.motiramani@yahoo.com](mailto:akhil.motiramani@yahoo.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/akhilmotiramani](https://linkedin.com/in/akhilmotiramani)
