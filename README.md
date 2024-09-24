@@ -39,6 +39,11 @@ Thank you for visiting my Github. Feel free to read more about me and explore my
 - 📧 **Email**: [akhil.motiramani@yahoo.com](mailto:akhil.motiramani@yahoo.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/akhilmotiramani](https://linkedin.com/in/akhilmotiramani)
 
+
+![Akhil's GitHub stats](https://github-readme-stats-idfh5azy2-akhilmotiramanis-projects.vercel.app/api?username=akhilmotiramani&count_private=true&show_icons=true&include_all_commits=true)
+
+
+
 <!--
 ![Akhil's Github Stats](https://github-readme-stats.vercel.app/api?username=akhilmotiramani&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilmotiramani&hide=TeX&layout=compact)
