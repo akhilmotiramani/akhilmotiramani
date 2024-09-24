@@ -40,14 +40,13 @@ Thank you for visiting my Github. Feel free to read more about me and explore my
 - 🔗 **LinkedIn**: [linkedin.com/in/akhilmotiramani](https://linkedin.com/in/akhilmotiramani)
 
 
-#![Akhil Github Stats](https://github-readme-stats-akhilmotiramanis-projects.vercel.app/api?username=akhilmotiramani&count_private=true&show_icons=true&include_all_commits=true)
 
 
 
 
 <!--
-![Akhil's Github Stats](https://github-readme-stats-git-master-akhilmotiramanis-projects.vercel.app
-/api?username=akhilmotiramani&count_private=true&show_icons=true&include_all_commits=true)
+![Akhil Github Stats](https://github-readme-stats-akhilmotiramanis-projects.vercel.app/api?username=akhilmotiramani&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilmotiramani&hide=TeX&layout=compact)
 -->
 ## Visitor count:
