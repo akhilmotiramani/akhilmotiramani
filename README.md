@@ -38,3 +38,5 @@ Thank you for visiting my Github. Feel free to read more about me and explore my
 ## Contact me: 
 - 📧 **Email**: [akhil.motiramani@yahoo.com](mailto:akhil.motiramani@yahoo.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/akhilmotiramani](https://linkedin.com/in/akhilmotiramani)
+- ## Visitor count
+<img src="https://profile-counter.glitch.me/akhilmotiramani/count.svg" />
