@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Thank you for visiting my Github. Feel free to read more about me and explore my projects! 
 ## About me: 
-- 🎓 Senior @ UNC Chapel Hill (Grad: May 2026)
+- 🎓 Alum @ UNC Chapel Hill (Grad: May 2026)
 - 💡 Enthusiastic about developing full-stack applications to provide a meaningful impact on the community
 - 👀Interests: Technology 📱, Finance 💵, Running 🏃, Music 🎶
 - 🗣️Words to describe me: Ambitious and Curious
